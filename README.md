@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->      
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=muni2222)](https://solved.ac/snow7525)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=muni's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=pink&fontColor=ffffff" width=100%/>
   
@@ -22,6 +21,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=muni2222&show_icons=true&theme=buefy" height=150/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muni2222&layout=compact&theme=buefy" height=150/>
 </p>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=muni2222)](https://solved.ac/snow7525)
   
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=muni2222&utm_content=farm">
 <img
