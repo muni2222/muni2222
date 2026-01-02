@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->      
-     
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=muni2222](https://solved.ac/snow7525)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=muni's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=blue&fontColor=ffffff" width=100%/>
   
 <p align="center">
