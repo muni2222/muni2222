@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=muni2222](https://solved.ac/snow7525)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=muni's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=blue&fontColor=ffffff" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=muni's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=pink&fontColor=ffffff" width=100%/>
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muni2222" alt="Trophy" />
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 />
 </a>
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chachaasdfgm@gmail.com)](https://solved.ac/snow7525)
+
  
 ## 👀 About Me
   #### :fire: 파이티이이이이이이잉~~<br/> 
@@ -39,18 +41,28 @@ Here are some ideas to get you started:
   <br/>
   <br/>
    
-  ## 🧱 Tech Stack
-  ### Language
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+## 🧱 Tech Stack
 
-  ### FrameWork
-  
-  ### Library
-<img src="https://img.shields.io/badge/Zustand-EF4444?style=for-the-badge&logo=zustand&logoColor=white">
+### Languages
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
 
-  ### Tool
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+### Frontend
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black"> 
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 
+### Backend
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+
+### Database
+<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+
+### Tools
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
  
 
   
