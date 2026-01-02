@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->      
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=muni's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=FFB6C1&fontColor=ffffff" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=muni's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=FFB6C1&fontColor=black" width=100%/>
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muni2222" alt="Trophy" />
