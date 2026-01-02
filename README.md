@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
  
 ## 👀 About Me
-  #### :fire: 매일매일 개발하기 꾸준함이 생명<br/> 
+  #### :fire: 파이티이이이이이이잉~~<br/> 
   #### 🏫 SSAFY 14기생
   <br/>
   <br/>
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
   ### FrameWork
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   
   ### Library
 <img src="https://img.shields.io/badge/Zustand-EF4444?style=for-the-badge&logo=zustand&logoColor=white">
